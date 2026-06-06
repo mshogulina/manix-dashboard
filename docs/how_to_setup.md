@@ -19,3 +19,8 @@ python manage.py startapp webapp
 ```sh
 python manage.py runserver
 ```
+
+## Browse
+```
+http://127.0.0.1:8000/webapp/
+```
